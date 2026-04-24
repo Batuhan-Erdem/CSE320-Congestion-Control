@@ -1,0 +1,5 @@
+node
+*.o
+*.out
+*.exe
+
